@@ -8,6 +8,9 @@ Advanced Stock Price Checker
 # start
 $ npm run docker:build-and-start:dev
 
+#visit
+http://localhost:3000/api
+
 ```
 
 ## Test
